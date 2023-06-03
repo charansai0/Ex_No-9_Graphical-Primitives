@@ -123,7 +123,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## Output:
-![output]()
+![output](https://github.com/charansai0/Ex_No-9_Graphical-Primitives/blob/main/j101.png)
 
 
 
